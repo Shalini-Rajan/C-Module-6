@@ -1,4 +1,4 @@
-# # 🔤 Vowel or Consonant Checker Using Pointers in C
+# # Pointers: Vowel or Consonant Checker Using Pointers in C
 
 ## 🎯 Aim
 
